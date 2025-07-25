@@ -55,6 +55,7 @@ cat slurm-<job_id>.out   # View output
     - analysis;
     - report.
 - Ex2:
+    - latency file e run su orfeo;
     - collective omp (by pixel);
     - dynamic mandelbrot (master - worker or block);
     - analysis;
